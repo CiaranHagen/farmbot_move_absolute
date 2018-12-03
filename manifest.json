@@ -1,0 +1,13 @@
+{
+     "package": "Move_absolute",
+     "language": "python",
+     "author": "Sylvain Vaugon & Ciarán Hagen",
+     "description": "Moves the farmbot to a hardcoded location (location might become variable in a future version). Intended to be used as a function inside larger code. Not intended to be a standalone.",
+     "version": "1.0.0",
+     "min_os_version_major": 6,
+     "url": "https://raw.githubusercontent.com/CiaranHagen/farmbot_move_absolute/master/manifest.json",
+     "zip": "https://github.com/CiaranHagen/farmbot_move_absolute/archive/master.zip",
+     "executable": "python",
+     "args": ["farmbot_move_absolute-master/launch.py"],
+     "config": []
+}
